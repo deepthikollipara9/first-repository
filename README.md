@@ -13,7 +13,7 @@
     - Upload the database dump to chatgpt to analyze
     - Written the prompt to generate sample questions
         ```
-        Generate few sqlite quest on the given database 
+        Generate few sqlite question the given database 
         ```
 6) Used chatgpt to understand few unknown topic in sql
      - Upload the question you have doughts in
